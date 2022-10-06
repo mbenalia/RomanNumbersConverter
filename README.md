@@ -7,6 +7,8 @@ My first Android App written in Java.
 
 A simple Roman number converter. 
 
+<img src="/screen_dark.jpg" width=50% height=50%>
+
 <img src="/screen_dark.jpg"
 alt="Alt text"
 title="Dark Mode"
